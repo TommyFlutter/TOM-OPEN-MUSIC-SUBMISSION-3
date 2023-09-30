@@ -1,0 +1,5 @@
+node_modules
+.idea
+.env
+src/public/images/**.*
+open-music-api-webserver.pem
